@@ -1,0 +1,22 @@
+{
+  "name": "google-signup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "googleapi": "^1.0.2",
+    "googleapis": "^144.0.0",
+    "mongoose": "^8.10.0",
+    "passport": "^0.7.0",
+    "passport-google-oauth2": "^0.2.0"
+  }
+}
